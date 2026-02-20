@@ -1,0 +1,46 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+*.tmp
+*.temp
+
+# Visual Studio
+.vs/
+*.sln.cache
+*.sln.DotSettings.user
+
+# Rider
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+appsettings.Development.json
+
+# Database
+*.mdf
+*.ldf
+
+# NuGet
+packages/
+*.nupkg
+
+# Build
+*.dll
+*.exe
+*.pdb
+
+# Test Results
+TestResults/
+*.trx
+
+# Coverage
+coverage/
+*.coverage
